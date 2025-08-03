@@ -1,0 +1,14 @@
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\bin\Debug\net8.0\11352966_ass1.exe
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\bin\Debug\net8.0\11352966_ass1.deps.json
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\bin\Debug\net8.0\11352966_ass1.runtimeconfig.json
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\bin\Debug\net8.0\11352966_ass1.dll
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\bin\Debug\net8.0\11352966_ass1.pdb
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.AssemblyInfoInputs.cache
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.AssemblyInfo.cs
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.csproj.CoreCompileInputs.cache
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.dll
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\refint\11352966_ass1.dll
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.pdb
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.genruntimeconfig.cache
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\ref\11352966_ass1.dll
