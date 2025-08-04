@@ -12,7 +12,7 @@ class Program
             Console.WriteLine("3. Triangle Type Identifier");
             Console.WriteLine("4. Exit");
 
-            Console.Write("Enter your choice (1-4): ");
+            Console.WriteLine("Enter your choice (1-4): ");
             string choice = Console.ReadLine();
 
             Console.Clear();
