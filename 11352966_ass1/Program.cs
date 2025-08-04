@@ -2,8 +2,6 @@
 
 class Program
 {
-
-
     static void GradeCalculator()
     {
         Console.Write("Enter your numerical grade (0-100): ");
@@ -27,5 +25,27 @@ class Program
             Console.WriteLine("Invalid input. Please enter a valid number.");
         }
     }
+
+    static void TicketPriceCalculator()
+    {
+        Console.Write("Enter your age: ");
+        if (int.TryParse(Console.ReadLine(), out int age))
+        {
+            if (age < 0)
+            {
+                Console.WriteLine("Age cannot be negative.");
+                return;
+            }
+
+            int ticketPrice = (age <= 12 || age >= 65) ? 7 : 10;
+
+            Console.WriteLine($"Your ticket price is: GHC{ticketPrice}");
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid number.");
+        }
+    }
+
 
 }
