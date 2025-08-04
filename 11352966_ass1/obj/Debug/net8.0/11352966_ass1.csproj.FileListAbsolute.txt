@@ -12,3 +12,4 @@ C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\refint
 C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.pdb
 C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.genruntimeconfig.cache
 C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\ref\11352966_ass1.dll
+C:\Users\Dorris\source\repos\11352966_ass1\11352966_ass1\obj\Debug\net8.0\11352966_ass1.sourcelink.json
